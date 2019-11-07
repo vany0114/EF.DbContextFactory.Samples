@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.DbContextFactory.NetCore30", "EFCore.DbContextFactory.NetCore30\EFCore.DbContextFactory.NetCore30.csproj", "{2EF7BAE4-0E3B-422A-BD61-13B769DA0082}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.DbContextFactory.Examples.Data", "EFCore.DbContextFactory.Examples.Data\EFCore.DbContextFactory.Examples.Data.csproj", "{90850832-0E83-4FB9-AF6D-D67943843DFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.DbContextFactory.NetCore21", "EFCore.DbContextFactory.NetCore21\EFCore.DbContextFactory.NetCore21.csproj", "{42060789-5277-45B9-BBC8-C5600C438921}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.DbContextFactory.NetCore20", "EFCore.DbContextFactory.NetCore20\EFCore.DbContextFactory.NetCore20.csproj", "{58A4D5C1-DC27-4457-BB9B-A874BCAC333F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.DbContextFactory.NetFramework462", "EFCore.DbContextFactory.NetFramework462\EFCore.DbContextFactory.NetFramework462.csproj", "{386CB54D-D3A2-4148-8C19-5F6F37139C90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.DbContextFactory.NetFramework472", "EFCore.DbContextFactory.NetFramework472\EFCore.DbContextFactory.NetFramework472.csproj", "{30186601-346B-40A9-8986-BE7D24F1ECFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF7BAE4-0E3B-422A-BD61-13B769DA0082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF7BAE4-0E3B-422A-BD61-13B769DA0082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF7BAE4-0E3B-422A-BD61-13B769DA0082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF7BAE4-0E3B-422A-BD61-13B769DA0082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90850832-0E83-4FB9-AF6D-D67943843DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90850832-0E83-4FB9-AF6D-D67943843DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90850832-0E83-4FB9-AF6D-D67943843DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90850832-0E83-4FB9-AF6D-D67943843DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42060789-5277-45B9-BBC8-C5600C438921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42060789-5277-45B9-BBC8-C5600C438921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42060789-5277-45B9-BBC8-C5600C438921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42060789-5277-45B9-BBC8-C5600C438921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A4D5C1-DC27-4457-BB9B-A874BCAC333F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A4D5C1-DC27-4457-BB9B-A874BCAC333F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A4D5C1-DC27-4457-BB9B-A874BCAC333F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A4D5C1-DC27-4457-BB9B-A874BCAC333F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386CB54D-D3A2-4148-8C19-5F6F37139C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386CB54D-D3A2-4148-8C19-5F6F37139C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386CB54D-D3A2-4148-8C19-5F6F37139C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386CB54D-D3A2-4148-8C19-5F6F37139C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30186601-346B-40A9-8986-BE7D24F1ECFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30186601-346B-40A9-8986-BE7D24F1ECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30186601-346B-40A9-8986-BE7D24F1ECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30186601-346B-40A9-8986-BE7D24F1ECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {493F8959-78CB-4472-AC71-4EC3B9001E7E}
+	EndGlobalSection
+EndGlobal
